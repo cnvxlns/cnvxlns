@@ -10,9 +10,9 @@
 - 🔢 **알고리즘 문제 풀이**
 
 ### 🎯 Going to Study
-- 🛠️ **선형대수학, 미분방정식등 기초 수학**
+- 🛠️ **미분방정식등 기초 수학**
 - 📡 **RISC-V 등 저수준 언어**
-- ✨ **Various AI Algorithms**
+- ✨ **반도체공학**
   
 ### 📫 How to Reach Me  
 - ✉️ **이메일**: okmac01@gmail.com
