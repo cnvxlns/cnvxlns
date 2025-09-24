@@ -8,13 +8,13 @@
 
   [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java)](https://skillicons.dev)
 
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=okmac03)](https://solved.ac/okmac03)
+
 
   
   
 ### 📌 Projects & Works
 - **[알고리즘 문제 풀이(Problem Solving in BOJ)](https://github.com/cnvxlns/bojcodes)**
-
- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=okmac03)](https://solved.ac/okmac03)
 
 - **[미니게임 모음 앱(MINIGAMEHELL)](https://github.com/cnvxlns/MinigameHell)**
 
