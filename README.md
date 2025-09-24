@@ -23,7 +23,7 @@
 - 2025 부산대학교 프로그래밍 경진대회(PNUPC) Div.2 동상
 
 ### 🪪 Qualifications
-- [PCCP lv.3 (700점)](https://certi.programmers.co.kr/result/share/11665?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community)
+- [PCCP C++ lv.3 (700점)](https://certi.programmers.co.kr/result/share/11665?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community)
 
 ### 🎯 Going to Study
 - 🛠️ **미분방정식등 기초 수학**
