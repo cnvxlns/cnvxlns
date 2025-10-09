@@ -8,7 +8,7 @@
 
   [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java)](https://skillicons.dev)
 
- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=okmac03)](https://solved.ac/okmac03)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=okmac03)](https://solved.ac/okmac03/)
  [![Atcoder Profile](https://atcoder-badge.kro.kr?id=cnvxlns)](https://atcoder.jp/users/cnvxlns)
 
   
