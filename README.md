@@ -6,7 +6,7 @@
 - 🔍 **주 관심 분야**: 알고리즘, 임베디드 시스템, 전자회로 및 반도체
 - 🛠️ **Languages/Tech Stacks**:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnvxlns)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnvxlns&layout=compact)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=okmac03)](https://solved.ac/okmac03/)
  [![Atcoder Profile](https://atcoder-badge.kro.kr?id=cnvxlns)](https://atcoder.jp/users/cnvxlns)
