@@ -24,7 +24,8 @@
 
 ### 🪪 Qualifications
 - [PCCP C++ lv.3 (700점)](https://certi.programmers.co.kr/result/share/11665?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community)
-
+- [PCCP Python lv.3 (601점)](https://certi.programmers.co.kr/result/share/16138?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community)
+  
 ### 🎯 Going to Study
 - 🛠️ **미분방정식등 기초 수학**
 - 📡 **RISC-V 등 저수준 언어**
