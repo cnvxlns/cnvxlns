@@ -43,3 +43,7 @@
 <h3>Awards</h3>
 * 2024 PNUPC div.2 동상 🥉 <br>
 * 2025 PNUPC div.2 동상 🥉 <br>
+
+
+<h2>How To Reach Me</h2>
+E-mail: cnvxlns@gmail.com
