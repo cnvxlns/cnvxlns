@@ -18,10 +18,10 @@
 ---
 
 <h2>I'm Interested In</h2>
-* **Embedded SW development**
-* **Electronic Circuit Analysis & Digital Signal Processing**
-* **Data Science & Analysis**
-* **Problem Solving & Algorithms**
+<p>Embedded SW development</p>
+<p>Electronic Circuit Analysis & Digital Signal Processing</p>
+<p>Data Science & Analysis</p>
+<p>Problem Solving & Algorithms</p>
 
 ---
 
