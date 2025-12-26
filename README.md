@@ -1,8 +1,8 @@
 # 🚀 Welcome
 
 ### 👨‍💻 About Me
-안녕하세요! 부산대학교 정보컴퓨터공학부 **김동현**입니다.
-컴퓨터공학과 전자공학을 전공하며 하드웨어와 소프트웨어를 아우르는 개발을 지향합니다.
+안녕하세요! 부산대학교 정보컴퓨터공학부 **김동현**입니다.<br>
+하드웨어와 소프트웨어를 아우르는 개발을 지향합니다.
 
 ---
 
@@ -15,13 +15,10 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 
-**Statistics**
-[!["Donghyun's github stats"](https://github-readme-stats.vercel.app/api/top-langs/?username=cnvxlns&layout=compact&theme=radical)](https://github.com/cnvxlns)
-
 ---
 
 ### 🎯 I'm Interested In
-* 📟 **Embedded SW development** (FPGA, Verilog, RISC-V)
+* 📟 **Embedded SW development**
 * 🔌 **Electronic Circuit Analysis & Digital Signal Processing**
 * 📊 **Data Science & Analysis**
 * 💡 **Problem Solving & Algorithms**
