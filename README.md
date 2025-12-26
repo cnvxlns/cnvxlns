@@ -36,6 +36,7 @@
 </p>
 
 <h3>Certifications</h3>
+
 * [PCCP C++ LV.3](https://certi.programmers.co.kr/result/share/11665)
 * [PCCP Python LV.3](https://certi.programmers.co.kr/result/share/16138)
 
