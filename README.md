@@ -1,37 +1,30 @@
-## Welcome
-
-안녕하세요! 저는 부산대학교 정보컴퓨터공학부 **김동현**입니다.  
-
-### 🚀 About Me  
-- 🔍 **주 관심 분야**: 알고리즘, 임베디드 시스템, 전자회로 및 반도체
-- 🛠️ **Languages/Tech Stacks**:
-
+<h1>Welcome</h1>
+<hr>
+<h2>About Me</h2>
+<div>저는 부산대학교 정보컴퓨터공학부 **김동현**입니다.</div>
+<hr>
+<h2>Tech Stacks</h2>
+<div>Languages
+	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+ ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+</div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cnvxlns&layout=compact)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=okmac03)](https://solved.ac/okmac03/)
- [![Atcoder Profile](https://atcoder-badge.kro.kr?id=cnvxlns)](https://atcoder.jp/users/cnvxlns)
-
-  
-  
-### 📌 Projects & Works
-- **[알고리즘 문제 풀이(Problem Solving in BOJ)](https://github.com/cnvxlns/bojcodes), [AtCoder 스터디](https://github.com/cnvxlns/AtCoder-Study)**
-
-- **[미니게임 모음 앱(MINIGAMEHELL)](https://github.com/cnvxlns/MinigameHell)**
-
-### 🏆 AWARDS
-- 2024 부산대학교 프로그래밍 경진대회(PNUPC) Div.2 동상
-- 2025 부산대학교 프로그래밍 경진대회(PNUPC) Div.2 동상
-
-### 🪪 Qualifications
-- [PCCP C++ lv.3 (700점)](https://certi.programmers.co.kr/result/share/11665?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community)
-- [PCCP Python lv.3 (601점)](https://certi.programmers.co.kr/result/share/16138?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community)
-  
-### 🎯 Going to Study
-- 🛠️ **미분방정식등 기초 수학**
-- 📡 **RISC-V 등 저수준 언어**
-- ✨ **반도체공학**
-  
-### 📫 How to Reach Me  
-- ✉️ **이메일**: cnvxlns@gmail.com
-
-
+<h2>I'm Interested In</h2>
+<div>Embedded SW development</div>
+<div>Electronic Circuit Analysis & Digital Signal Processing</div>
+<div>Data Science & Analysis</div>
+<div>Problem Solving & Algorithms</div>
+![okmac03](https://solvedac-readme-badge.vercel.app/api/v1/badge?user=okmac03&theme=github-dark&size=small&compact=1&use_back_color=1&use_border=1&use_shadow=0)
+<br>
+[![Atcoder Profile](https://atcoder-badge.kro.kr?id=cnvxlns)](https://atcoder.jp/users/cnvxlns)
+<br>
+<hr>
+<h2>Qualifications</h2>
+<div> [PCCP C++ LV.3](https://certi.programmers.co.kr/result/share/11665?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community) </div>
+<div> [PCCP Python LV.3](https://certi.programmers.co.kr/result/share/16138?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community)</div>
+<hr>
+<h2>Awards</h2>
+<div>2024 PNUPC div.2 동상</div>
+<div>2025 PNUPC div.2 동상</div>
