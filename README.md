@@ -41,5 +41,5 @@
 * [PCCP Python LV.3](https://certi.programmers.co.kr/result/share/16138)
 
 <h3>Awards</h3>
-* 2024 PNUPC div.2 동상 🥉
-* 2025 PNUPC div.2 동상 🥉
+* 2024 PNUPC div.2 동상 🥉 <br>
+* 2025 PNUPC div.2 동상 🥉 <br>
