@@ -20,6 +20,7 @@
 <h2>I'm Interested In</h2>
 <p>Embedded SW development</p>
 <p>Electronic Circuit Analysis & Digital Signal Processing</p>
+<p>AI Semiconductor</p>
 <p>Data Science & Analysis</p>
 <p>Problem Solving & Algorithms</p>
 
