@@ -64,4 +64,5 @@ semicolon과 semiconductor사이, 소프트웨어와 하드웨어를 아우르�
 * 2025 PNU AI Booster Second Prize 🥈 <br>
 
 <h2>How To Reach Me</h2>
-E-mail: cnvxlns@gmail.com
+E-mail: cnvxlns@gmail.com, okmac03@pusan.ac.kr
+
