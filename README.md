@@ -61,7 +61,7 @@ semicolon과 semiconductor사이, 소프트웨어와 하드웨어를 아우르�
 <h3>Awards</h3>
 * 2024 PNUPC div.2 동상 🥉 <br>
 * 2025 PNUPC div.2 동상 🥉 <br>
-
+* 2025 PNU AI Booster Second Prize 🥈 <br>
 
 <h2>How To Reach Me</h2>
 E-mail: cnvxlns@gmail.com
