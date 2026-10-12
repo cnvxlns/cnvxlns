@@ -35,7 +35,7 @@
 
 <h2>I'm Interested In</h2>
 <p>Embedded & Robotics SW development</p>
-<p>IoT & Edge/Physical/On-Device AI</p>
+<p>IoT & Edge / Physical / On-Device AI</p>
 <p>Electronic Circuit Analysis & Digital Signal Processing </p>
 <p>SoC & Digital System Design </p>
 <p>Sabermetrics (Baseball Physics & Data Analysis)</p>
