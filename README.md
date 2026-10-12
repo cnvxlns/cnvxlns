@@ -55,7 +55,7 @@
 
 <h2>Certifications & Awards</h2>
 
-<h3>Solved.ac & AtCoder</h3>
+<h3>solved.ac & AtCoder</h3>
 <p>
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=okmac03" />
   <a href="https://atcoder.jp/users/cnvxlns">
